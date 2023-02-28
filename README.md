@@ -1,3 +1,4 @@
 # Redes de Computadores
 
-## Codigos para servidor e cliente em python
+## Conversa entre servidor e cliente em python no terminal
+
